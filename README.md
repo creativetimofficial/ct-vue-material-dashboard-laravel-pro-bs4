@@ -7,7 +7,7 @@
 
 ![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/vue-material-dashboard-laravel-pro/vue-material-dashboard-laravel-pro.gif?raw=true)
 
-Vue Material Dashboard PRO json API is a fullstack resource built on top of [Vue Material](https://vuematerial.io/) and [Vuejs](https://vuejs.org/v2/guide/). Build awesome-looking apps with a flexible architecture across a variety of devices and operating systems. Vue Material Dashboard PRO json API is the official Vuejs and json API version of the original Material Dashboard PRO.
+What if you could go from frontend to fullstack in an instant when building your app? We partnered with [UPDIVISION](https://updivision.com) to bring you Vue Material Dashboard Laravel PRO, the ultimate fullstack resource. Vue Material Dashboard Laravel PRO comes not only with a huge number of UI components and a Vue Material frontend, but also with an API-powered Laravel backend.
 
 # Laravel API Setup
 
