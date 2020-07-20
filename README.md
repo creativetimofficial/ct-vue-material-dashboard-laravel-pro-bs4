@@ -982,9 +982,13 @@ You can find the compoments for items functionality in `src\pages\Dashboard\Exam
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/json-api.png" height="75" />](#)
 
 
-| HTML | Laravel | Vue | Vue & Laravel |
-| --- | --- | --- | --- |
-| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=vmdpl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=vmdpl-readme) | [![Vue Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/87/thumb/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vmdpl-readme) | [![Vue Material Dashboard Laravel Pro](https://s3.amazonaws.com/creativetim_bucket/products/332/thumb/opt_mdp_vuelaravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-laravel-pro?ref=vmdpl-readme) |
+| HTML | Laravel |
+| --- | --- |
+| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=vmdpl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=vmdpl-readme) |
+
+| Vue | Vue & Laravel |
+| --- | --- |
+| [![Vue Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/87/thumb/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vmdpl-readme) | [![Vue Material Dashboard Laravel Pro](https://s3.amazonaws.com/creativetim_bucket/products/332/thumb/opt_mdp_vuelaravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-laravel-pro?ref=vmdpl-readme) |
 
 ## Demo
 
@@ -1309,9 +1313,13 @@ At present, we officially aim to support the last two versions of the following 
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-vue-material-dashboard-laravel-pro/issues)
 - **Dashboards:**
 
-| HTML | Laravel | Vue | Vue & Laravel |
-| --- | --- | --- | --- |
-| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=vmdpl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=vmdpl-readme) | [![Vue Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/87/thumb/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vmdpl-readme) | [![Vue Material Dashboard Laravel Pro](https://s3.amazonaws.com/creativetim_bucket/products/332/thumb/opt_mdp_vuelaravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-laravel-pro?ref=vmdpl-readme) |
+| HTML | Laravel |
+| --- | --- |
+| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=vmdpl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=vmdpl-readme) |
+
+| Vue | Vue & Laravel |
+| --- | --- |
+| [![Vue Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/87/thumb/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vmdpl-readme) | [![Vue Material Dashboard Laravel Pro](https://s3.amazonaws.com/creativetim_bucket/products/332/thumb/opt_mdp_vuelaravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-laravel-pro?ref=vmdpl-readme) |
 
 ## Change log
 
