@@ -976,9 +976,10 @@ You can find the compoments for items functionality in `src\pages\Dashboard\Exam
 
 ## Versions
 
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/argon-dashboard-pro/pages/dashboards/dashboard.html?ref=vmdpl-readme)
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://argon-dashboard-pro-laravel.creative-tim.com/?ref=vmdpl-readme)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/vuejs.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-dashboard-pro)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="50" />](#)
+[<img src="https://logos-download.com/wp-content/uploads/2016/09/Laravel_logo-700x508.png" height="50" />](#)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/github/vuejs.png" height="50" style="vertical-align: super" />](#)
+[<img src="https://jsonapi.org/images/jsonapi.png" height="60" style="vertical-align: super" />](#)
 
 
 | HTML | LARAVEL | VUE | LARAVEL & VUE|
@@ -1323,9 +1324,9 @@ Please see the [changelog](CHANGELOG.md) for more information on what has change
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Material Dashboard Laravel. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Vue Material Dashboard Laravel. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Material Dashboard Laravel. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=vmdpl-readme).
+1. Make sure that you are using the latest version of the Vue Material Dashboard Laravel. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=vmdpl-readme).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
