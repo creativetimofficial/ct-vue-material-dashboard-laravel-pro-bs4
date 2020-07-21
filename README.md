@@ -3,6 +3,7 @@
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-material-dashboard-laravel-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-material-dashboard-laravel-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-material-dashboard-laravel-pro/ct-vue-material-dashboard-laravel-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-material-dashboard-laravel-pro/issues?q=is%3Aissue+is%3Aclosed)
 
 *Frontend version*: Material Dashboard v2.1.0. More info at https://www.creative-tim.com/product/material-dashboard-pro
+
 *Vue version*: Vue Material Dashboard v1.4.0. More info at https://www.creative-tim.com/product/vue-material-dashboard-pro
 
 ![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/vue-material-dashboard-laravel-pro/vue-material-dashboard-laravel-pro.gif?raw=true)
