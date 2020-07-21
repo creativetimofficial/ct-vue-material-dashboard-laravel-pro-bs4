@@ -10,6 +10,11 @@
 
 What if you could go from frontend to fullstack in an instant when building your app? We partnered with [UPDIVISION](https://updivision.com) to bring you Vue Material Dashboard Laravel PRO, the ultimate fullstack resource. Vue Material Dashboard Laravel PRO comes not only with a huge number of UI components and a Vue Material frontend, but also with an API-powered Laravel backend.
 
+# Download
+For the PRO version of the project you will download the .zip file from the Creative Tim site and extract it.
+
+You will get two project folders: one for the Laravel API project and one for the Vue frontend.
+
 # Laravel API Setup
 
 ## Introduction
@@ -28,11 +33,6 @@ If you don't already have a local development environment, use one of the follow
 - Linux: [How to install LAMP on Linux](https://howtoubuntu.org/how-to-install-lamp-on-ubuntu)
 - Mac: [How to install MAMP on MAC](https://wpshout.com/quick-guides/how-to-install-mamp-on-your-mac/)
 - Install Composer: [https://getcomposer.org/doc/00-intro.md](https://getcomposer.org/doc/00-intro.md)
-
-## Download
-For the PRO version of the project you will download the .zip file from the Creative Tim site and extract it.
-
-You will get two project folders: one for the Laravel API project and one for the Vue frontend.
 
 ## Laravel API Project Installation
 
