@@ -15,3 +15,6 @@ All notable changes to `Vue Material Dashboard Laravel PRO`  will be documented 
 - Category CRUD
 - Item CRUD
 - User roles & access restrictions
+
+## Version 1.0.1
+Compatibility with node.js v16.x LTS
