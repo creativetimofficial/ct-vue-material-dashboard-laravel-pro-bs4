@@ -6,7 +6,7 @@
 
 *Vue version*: Vue Material Dashboard v1.4.0. More info at https://www.creative-tim.com/product/vue-material-dashboard-pro
 
-![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/vue-material-dashboard-laravel-pro/vue-material-dashboard-laravel-pro.gif?raw=true)
+![Product Image](https://s3.amazonaws.com/creativetim_bucket/products/332/original/opt_mdp_vuelaravel_thumbnail.jpg)
 
 What if you could go from frontend to fullstack in an instant when building your app? We partnered with [UPDIVISION](https://updivision.com) to bring you Vue Material Dashboard Laravel PRO, the ultimate fullstack resource. Vue Material Dashboard Laravel PRO comes not only with a huge number of UI components and a Vue Material frontend, but also with an API-powered Laravel backend.
 
