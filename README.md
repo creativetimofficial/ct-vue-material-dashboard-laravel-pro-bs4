@@ -1,4 +1,4 @@
-# [Vue Material Dashboard Laravel Pro](https://vue-material-dashboard-laravel-pro.creative-tim.com/?ref=mdpl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Vue%20Material%20Dashboard%20Pro%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//vue-material-dashboard-laravel-pro.creative-tim.com/%20%23%vue%20%23%material%20%23design%20%23dashboard%20%23laravel%20%23pro%20via%20%40CreativeTim)
+# [Vue Material Dashboard Laravel Pro BS4](https://vue-material-dashboard-laravel-pro.creative-tim.com/?ref=mdpl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Vue%20Material%20Dashboard%20Pro%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//vue-material-dashboard-laravel-pro.creative-tim.com/%20%23%vue%20%23%material%20%23design%20%23dashboard%20%23laravel%20%23pro%20via%20%40CreativeTim)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-material-dashboard-laravel-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-material-dashboard-laravel-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-material-dashboard-laravel-pro/ct-vue-material-dashboard-laravel-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-material-dashboard-laravel-pro/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -6,7 +6,7 @@
 
 *Vue version*: Vue Material Dashboard v1.4.0. More info at https://www.creative-tim.com/product/vue-material-dashboard-pro
 
-![Product Image](https://s3.amazonaws.com/creativetim_bucket/products/332/original/opt_mdp_vuelaravel_thumbnail.jpg)
+![Product Image](https://s3.amazonaws.com/creativetim_bucket/products/730/original/opt_mdp_vuelaravel_thumbnail.jpg)
 
 What if you could go from frontend to fullstack in an instant when building your app? We partnered with [UPDIVISION](https://updivision.com) to bring you Vue Material Dashboard Laravel PRO, the ultimate fullstack resource. Vue Material Dashboard Laravel PRO comes not only with a huge number of UI components and a Vue Material frontend, but also with an API-powered Laravel backend.
 
@@ -990,7 +990,7 @@ You can find the compoments for items functionality in `src\pages\Dashboard\Exam
 
 | Vue | Vue & Laravel |
 | --- | --- |
-| [![Vue Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/87/thumb/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vmdpl-readme) | [![Vue Material Dashboard Laravel Pro](https://s3.amazonaws.com/creativetim_bucket/products/332/thumb/opt_mdp_vuelaravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-laravel-pro?ref=vmdpl-readme) |
+| [![Vue Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/87/thumb/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vmdpl-readme) | [![Vue Material Dashboard Laravel Pro](https://s3.amazonaws.com/creativetim_bucket/products/730/thumb/opt_mdp_vuelaravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-laravel-pro-bs4?ref=vmdpl-readme) |
 
 ## Demo
 
@@ -1001,10 +1001,10 @@ You can find the compoments for items functionality in `src\pages\Dashboard\Exam
 | Profile Page | Users Page | Tables Page  |
 | --- | --- | ---  |
 | [![Profile Page](https://github.com/creativetimofficial/public-assets/raw/master/vue-material-dashboard-laravel-pro/Profile.png)](https://vue-material-dashboard-laravel-pro.creative-tim.com/profile?ref=vmdpl-readme)  | [![Users Page](https://github.com/creativetimofficial/public-assets/raw/master/vue-material-dashboard-laravel-pro/Users.png)](https://vue-material-dashboard-laravel-pro.creative-tim.com/user?ref=vmdpl-readme) | [![Tables Page](https://github.com/creativetimofficial/public-assets/raw/master/vue-material-dashboard-laravel-pro/Tables.png)](https://vue-material-dashboard-laravel-pro.creative-tim.com/table-list?ref=vmdpl-readme)
-[View More](https://vue-material-dashboard-laravel-pro.creative-tim.com/?ref=vmdpl-readme)
+[View More](https://vue-material-dashboard-laravel-pro-bs4.creative-tim.com/?ref=vmdpl-readme)
 
 ## Documentation
-The documentation for the Vue Material Dashboard Laravel Pro is hosted at our [website](https://vue-material-dashboard-laravel-pro.creative-tim.com/documentation?ref=vmdpl-readme).
+The documentation for the Vue Material Dashboard Laravel Pro is hosted at our [website](https://vue-material-dashboard-laravel-pro-bs4.creative-tim.com/documentation?ref=vmdpl-readme).
 
 ## File Structure
 ```
@@ -1312,7 +1312,7 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation: <https://vue-material-dashboard-laravel-pro.creative-tim.com/documentation?ref=vmdpl-readme>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-vue-material-dashboard-laravel-pro/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-vue-material-dashboard-laravel-pro-bs4/issues)
 - **Dashboards:**
 
 | HTML | Laravel |
@@ -1321,7 +1321,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | Vue | Vue & Laravel |
 | --- | --- |
-| [![Vue Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/87/thumb/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vmdpl-readme) | [![Vue Material Dashboard Laravel Pro](https://s3.amazonaws.com/creativetim_bucket/products/332/thumb/opt_mdp_vuelaravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-laravel-pro?ref=vmdpl-readme) |
+| [![Vue Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/87/thumb/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vmdpl-readme) | [![Vue Material Dashboard Laravel Pro](https://s3.amazonaws.com/creativetim_bucket/products/730/thumb/opt_mdp_vuelaravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-laravel-pro-bs4?ref=vmdpl-readme) |
 
 ## Change log
 
